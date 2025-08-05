@@ -12,7 +12,7 @@ So full disclosure. There will be a ton of errors in here. That's entirely the p
 > [!tip]
 > You’re not just in life—you’re shaping it. Don’t stall trying to solve it all first.
 
-I rely on LLMs to help me *explode context* on topics I'm interested in, questions I have, and content generation–for when I really don't want to spice up a recipe into a README by myself. I recognize that it's a computer, I recognize that it hallucinates. I just try to ask better questions, and tell myself that I lie to me too. 
+I rely on LLMs to help me *explode context* on topics I'm interested in, questions I have, and content generation–for when I really don't want to spice up a recipe into a README by myself. I recognize that it's a computer, I recognize that it hallucinates. I just try to ask better questions, and tell myself that, "I lie to me too". 
 
 See, we catalog data in our brains constantly. We categorize and file away memories, feelings, & facts–however wrong. But when we contend with that information, when we actually apply that information, if it's wrong, it'll surface.
 
