@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32ea4f721891a742",
+        "id": "f1ad6402dbc8485f",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7b8ff31c6a6405",
+            "id": "80479d00c2a3bcc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,14 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Technical problems to address"
             }
+          },
+          {
+            "id": "be5f0570491d2352",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +177,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5bfab60f8d5c0ba",
+  "active": "80479d00c2a3bcc1",
   "lastOpenFiles": [
-    "Diátaxis/MoC - Diátaxis.md",
+    "README.md",
     "MoC - Main.md",
+    "Diátaxis/MoC - Diátaxis.md",
     "Autogenesis/MoC - Autogénesis.md",
     "Autogenesis/Aethergon/Creation of Autogenesis/Autogénesis Defined.md",
     "Diátaxis/JWS_ProxMox/TODO.md",
@@ -204,7 +216,6 @@
     "Cold Storage/Templates/MoC - Personal Project Template.md",
     "Scratchpad.md",
     "Glossary.md",
-    "README.md",
     "ALL TAGS.md",
     "Cold Storage/Templates/Templater/cleanup-pasted-content.md",
     "Diátaxis/Mycelia/SORT THESE LATER/Tag Consolidation via Semantic Proximity and Dictionary Compression 1.md",
