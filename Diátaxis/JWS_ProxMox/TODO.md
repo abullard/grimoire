@@ -1,0 +1,4 @@
+- [ ] Split Tunneling is how we avoid overriding the default gateway to WAN
+	- Modify the allowed IPs to achieve this, instead of quad 0, specify IP ranges you want to route through VPN
+- [ ] OpnSense on a small computer with 2 ethernet ports to utilize wireguard long term. This sits between the Proxmox box and router/cat switch
+- [ ] I can work from Joey's device
