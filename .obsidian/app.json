@@ -2,5 +2,7 @@
   "readableLineLength": true,
   "showLineNumber": false,
   "smartIndentList": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "photos",
+  "showUnsupportedFiles": false
 }

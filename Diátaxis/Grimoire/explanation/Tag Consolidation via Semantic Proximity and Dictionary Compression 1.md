@@ -1,6 +1,6 @@
 #tag-cleanup #knowledge-management #semantic-clustering #data-deduplication #algorithm-theory #diataxis/explanation
 
-[[MoC - Diátaxis|Back]]
+[[MoC - Grimoire|Back]]
 
 > I'm going to feed you a list of tags, Your goal is to consolidate them. ONLY by combining like terms. i.e. expect(accuracy(tag1 === tag2)).toBeWithinEpsilon(~0.05); I want to see how you can operate on a data dictionary to maintain bloat. That's the goal. Talk to me about the algo you use, and cite sources. Here's the list: `#moc #akio #aethergon #npm #pnpm #yarn #package-manager #personal-project #github-copilot #custom-instructions #diataxis #this-is-a-tag #typescript #autogenesis #timeline #knowledge-sovereignty #self-mastery #agency #masterkey #pathos #noema #quote #food #health #nutrition #toxins #processed #recipe #personal-ai #rag #agents #self-knowledge #conversation-history #knowledge-management #philosophy-of-math #platonism #formalism #anthropic-principle #existential-questions #workflow #political-theory #etymology #philosophy #critique #sociology #capitalism #post-truth #community #presence #consumerism #definitions #glossary`
 

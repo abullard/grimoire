@@ -61,5 +61,14 @@
       ],
       "key": "V"
     }
+  ],
+  "templater-obsidian:create-Cold Storage/Templates/Templater/cleanup-pasted-content.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }

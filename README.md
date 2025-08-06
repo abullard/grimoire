@@ -2,7 +2,7 @@
 
 Note: If you're reading this on Github, there's going to be a lot of features that don't work. 
 - Backlinks like `[[Glossary]]` won't work.
-- ```[dataview(JS)?|tasks|etc]``` blocks won't work.
+- Many plugins have markdown blocks that won't work.
 - Maybe others? 
 ## Welcome 🤙
 Welcome to my brain. Think I'm calling this *Instruction Set: Human* for now. That was LLM generated, credit where credit is due.
@@ -24,9 +24,9 @@ First and foremost, get your hands on a copy of [Obsidian](https://obsidian.md/)
 
 A *Map of Content (MoC)* is a table of contents–full of links to other pages in this repo. This lets me store files in any folder structure without having to worry about files being in the "wrong" place. I can add a link to the MoC, and boom. All my cooking recipes are on one page. 
 
-For any definitions of things you don't know, but sound like they're ripped out of Neuromancer by William Gibson, check the [[Glossary]]\*. Lots of terms are marked with 📘.
+For any definitions of things you don't know, but sound like they're ripped out of Neuromancer by William Gibson, check the [[Glossary]]. Lots of terms are marked with 📘.
 
-Here's your key 🗝️ to the front door, [[MoC - Main]]. The Homepage plugin will keep it open if you're using Obsidian. This'll help keep you oriented in the maze.
+Here's your key 🗝️ to the front door, [[Table of Contents]]. The Homepage plugin will keep it open if you're using Obsidian. This'll help keep you oriented in the maze.
 
 Warmest Regards,
 

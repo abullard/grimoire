@@ -1,5 +1,9 @@
+- [ ] #todo: fix this up later. [link to docs](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/file-module.html#tpfilepathrelative-boolean--false).
+
 <%*
 const content = tp.file.content;
+
+console.log(content)
 
 // Regex cleanup operations
 let cleaned = content
@@ -10,6 +14,13 @@ let cleaned = content
   .replace(/\n\s*<\/?(ul|ol|li)[^>]*>\s*/g, '') // remove leftover HTML tags like <ul>, <li>
   .replace(/^\s+$/gm, '') // remove lines that are just spaces
 
-// Update file content
-await tp.file.overwrite(cleaned);
+console.log(tp.file.path(true));
+const file = app.vault.getAbstractFileByPath(tp.file.path);
+console.log(file);
+
+if (file && file instanceof TFile) {
+	// Update file content
+	await app.vault.modify(file, cleaned);
+} 
+
 %>

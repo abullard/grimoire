@@ -1,6 +1,6 @@
 #moc 
 
-[[MoC - Diátaxis]]
+[[MoC - Diátaxis|Back]]
 ## Inbox
 
 ```dataview

@@ -1,4 +1,4 @@
-#moc 
+#moc
 
 [[MoC - Diátaxis|Back]]
 ## Inbox

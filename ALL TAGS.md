@@ -1,4 +1,4 @@
-[[MoC - Main]]
+[[Table of Contents]]
 
 ## README
 ```dataviewjs

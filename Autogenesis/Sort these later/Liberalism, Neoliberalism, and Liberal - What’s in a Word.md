@@ -1,6 +1,6 @@
-#political-theory #etymology #philosophy #critique
+#political-theory #etymology #philosophy #critique #autogenesis/noema 
 
-[[MoC - Autogénesis]]
+[[MoC - Autogénesis|Parent]]
 
 > Help me understand the difference between liberalism and neo-liberalism. What's the etymology of the names? One is rights of the individual, one is rights of the market. how is liberalism different than liberal or "lib-tard" as people say.
 

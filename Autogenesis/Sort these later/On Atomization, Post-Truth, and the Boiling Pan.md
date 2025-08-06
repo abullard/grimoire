@@ -29,9 +29,7 @@ So yes — this is a world where myopic 📘 _myopic_: short-sighted _self-stewa
 It’s easy (and tempting) to say “capitalist individualism ruined everything.” But remember:
 
 - Humans have _always_ been prone to tribalism and subjective reality, even in premodern societies. (“My tribe’s gods are true, yours are false.”)
-    
 - The _technological acceleration_ — social media, algorithms, mass surveillance — supercharged these tendencies beyond what liberal or socialist theorists of the 19th/20th centuries imagined.
-    
 - Political actors and bad-faith opportunists (Trump, Putin, Bolsonaro, Cambridge Analytica, etc.) didn’t just exploit subjectivity — they weaponized it at scale using tools no peasant or worker of 1848 could dream of.
 
 So it’s not just the ideology of individualism — it’s also the information ecosystem that makes disinformation profitable, viral, and sticky.
@@ -43,9 +41,7 @@ So it’s not just the ideology of individualism — it’s also the information
 The post-truth era didn’t emerge because everyone became narcissists overnight. It emerged because:
 
 - Truth became _too painful, too complex, and too slow_ compared to emotional narratives.
-    
 - Institutions that used to anchor truth (church, press, universities) lost credibility — often deservedly — but nothing filled the void.
-    
 - Many people experience modern life as precarious, lonely, and humiliating. Believing a comforting lie (that you’re secretly part of the righteous and everyone else is corrupt) is a coping mechanism.
 
 Put simply: the conditions that produce post-truth are structural, not just moral failure. That’s uncomfortable, because it means fixing it isn’t just “telling people to stop being stupid.” It’s rebuilding trust, security, and shared meaning.

@@ -1,6 +1,6 @@
 #moc #kanban
 
-[[MoC - Main|Back]]
+[[Table of Contents|Back]]
 
 ```tasks
 

@@ -1,7 +1,6 @@
 #moc 
 
-[[MoC - Main|Back]]
-
+[[Table of Contents|Back]]
 ## Inbox
 
 ```dataview
@@ -10,22 +9,10 @@ list from [[]] and !outgoing([[]])
 
 ---
 
-## How-To
-- 
+## 🔮 [[MoC - Grimoire|Grimoire]]
+## [[MoC - General|General]]
 
----
+## [[MoC - JWS_ProxMox|Joey Web Services]]
 
-## Reference
-- [[Top 20 Unnatural Food Additives in Processed Foods]]
-
----
-
-## Explanation
-- [[Tag Consolidation via Semantic Proximity and Dictionary Compression 1]]
-
----
-
-## Tutorial
-- 
-
----
+## 🪄 [[MoC - Akio|Akio]]
+- [ ] #todo Can you make this a more general purpose tool? instead of just typescript
