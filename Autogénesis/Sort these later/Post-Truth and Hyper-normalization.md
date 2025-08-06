@@ -1,6 +1,6 @@
-#sociology #capitalism #community #presence #post-truth #handwritten
+#sociology #capitalism #community #presence #post-truth #handwritten #autogenesis/aethergon 
 
-[[MoC - Autogénesis]]
+[[MoC - Autogénesis|Parent]]
 
  Soviet Union [Hyper Normalization](https://www.bbc.co.uk/iplayer/episode/p04b183c/hypernormalisation) Video
 

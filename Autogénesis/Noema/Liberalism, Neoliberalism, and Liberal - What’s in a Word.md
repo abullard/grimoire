@@ -10,6 +10,7 @@ You’ve already sniffed out the tension here: two words from the same root carr
 
 ## 🌱 **1. Liberalism: roots & meaning**
 
+
 **Etymology:**  
 From Latin _liber_ (“free”), through Old French _liberal_ (“generous, free”), and into English to mean “freedom” in a political sense. 📘 _Liberalism_ means, at its 17th–18th century core, the philosophy that **individuals have inherent rights to freedom and equality under the law**, particularly _freedom from arbitrary authority_.
 

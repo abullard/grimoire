@@ -10,7 +10,7 @@ list from [[]] and !outgoing([[]])
 
 ## Map of Contents
 
-### [[README]]
+### 📖 [[README]]
 Primary entry point for understanding the vault’s structure, methodology, and LLM-assisted workflows. Explains Map of Content usage, glossary conventions, and the purpose of the system as a whole.
 ### ✅ [[MoC - TODO]]
 First and most importantly is my TODO list. This is my actionable items to complete. This is how I remember what notes need to be refined or completed, or other projects I'm working on. The tag `#todo`, will send a notification to the TODO MoC.

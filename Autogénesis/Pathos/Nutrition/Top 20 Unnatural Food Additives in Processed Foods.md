@@ -1,6 +1,6 @@
 #pathos #food #health #nutrition #toxins #processed
 
-[[MoC - Diátaxis]]
+[[MoC - Autogénesis|]]
 
 **Key = Ingredient**  
 **Value = What it does for the product / What it does to the human body**

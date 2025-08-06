@@ -1,6 +1,6 @@
 #psychology #creativity #healing #identity #mythmaking #autogenesis/noema
 
-[[MoC - Autogénesis]]
+[[MoC - Personal Psychology|Parent]]
 
 > I didn't realize intellectualization was a harmful thing. But fucking, duh? How do we navigate out? Or is Autogénesis: Ashewyn and Vereya already my ticket to ride?
 

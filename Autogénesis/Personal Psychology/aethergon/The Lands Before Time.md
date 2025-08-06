@@ -1,8 +1,11 @@
-#autogenesis/noema #pathos #masterkey
+#autogenesis/personal-psychology/aethergon #pathos #masterkey
 
-#todo expand on this content
+- [ ] #todo expand on this content
 
-[[MoC - Autogénesis]]
+> [!note] A thought
+> This is Aethergon because it's embodied mythology
+
+[[MoC - Personal Psychology|Parent]]
 
 ![[master-key.png]]
 ## Vereya

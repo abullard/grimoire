@@ -1,6 +1,6 @@
-#sociology #capitalism #post-truth #critique #community
+#sociology #capitalism #post-truth #critique #community #autogenesis/noema 
 
-[[MoC - Autogénesis]]
+[[MoC - Autogénesis|Parent]]
 
 > The system is collapsing on itself because capitalism so atomized and hoisted the individual to heights of anti-community, that most believe they're the only existence they need to steward. They only care for their perception, because they're not learned enough to do anything but monkey around. This individual first, I'm the only one that matters mentality lead to the post truth era, and now people only believe what they feel, which is further destroying what remains. Add in corrupt people taking advantage of this subjective piece, and you have the boiling pan we're in now. What do you think? what am I missing?
 
