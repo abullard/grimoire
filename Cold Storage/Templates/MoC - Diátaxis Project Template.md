@@ -1,6 +1,6 @@
-#moc 
+#moc #moc 
 
-[[MoC - Diátaxis]]
+[[MoC - Diátaxis|Parent]]
 ## Inbox
 
 ```dataview

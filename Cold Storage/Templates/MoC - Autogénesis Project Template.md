@@ -7,9 +7,6 @@
 list from [[]] and !outgoing([[]])
 ```
 
-## 🪴 [[Horticulture Kanban]]
-Todo list for developing the Grimoire
-
 ## ☁️ Aethergon
 - 
 

@@ -14,5 +14,5 @@ for (const folder of folders) {
 // Create MoC file
 const mocFilePath = `${basePath}/MoC - ${projectName}.md`
 
-await app.vault.create(mocFilePath, '#todo: Apply the [[MoC - Personal Project Template]] to this file')
+await app.vault.create(mocFilePath, '#todo: Apply the [[MoC - Diátaxis Project Template]] to this file')
 %>

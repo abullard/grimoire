@@ -18,12 +18,8 @@ First and most importantly is my TODO list. This is my actionable items to compl
 My handwritten works.
 ### 🪽 [[MoC - Autogénesis]]
 Quadrant based, self built "Castle of Glass :P" to explore & cartograph my brain. Which is me. Which is my brain. Weird loop. 
-
-![[autogenesis.png]]
 ### ⚙️ [[MoC - Diátaxis]]
 Technical Writing of my personal study following the [Diátaxis](https://diataxis.fr/) framework–post `07/31/2025`. Here's [[copilot-instructions.md#Diátaxis|copilot instructions for diátaxis]] in the form of a system prompt for an agentic LLM. Assuming I'm disciplined enough to always write docs. It's becoming more of a habit.
-
-![[diataxis.png]]
 ### 🗝️ [[MoC - Masterkey]]
 Legend of Zelda Masterkey, normally unlocks the dungeon's boss room. Here it signals a waypoint. Something important to remember. I should review these often, as I view them as the keys to finding meaning.
 ### 🏷️ [[ALL TAGS]]

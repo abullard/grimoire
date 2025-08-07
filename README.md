@@ -9,7 +9,7 @@ Welcome to my brain. Think I'm calling this *Instruction Set: Human* for now. Th
 
 So full disclosure. There will be a ton of errors in here. That's entirely the point. I'm human. Trying to find my way through this bizarre place.
 
-> [!tip]
+> [!tip] Intentionality == Meaning
 > You’re not just in life—you’re shaping it. Don’t stall trying to solve it all first.
 
 I rely on LLMs to help me *explode context* on topics I'm interested in, questions I have, and content generation–for when I really don't want to spice up a recipe into a README by myself. I recognize that it's a computer, I recognize that it hallucinates. I just try to ask better questions, and tell myself that, "I lie to me too". 
@@ -26,7 +26,7 @@ A *Map of Content (MoC)* is a table of contents–full of links to other pages i
 
 For any definitions of things you don't know, but sound like they're ripped out of Neuromancer by William Gibson, check the [[Glossary]]. Lots of terms are marked with 📘.
 
-Here's your key 🗝️ to the front door, [[Table of Contents]]. The Homepage plugin will keep it open if you're using Obsidian. This'll help keep you oriented in the maze.
+Here's your key 🗝️ to the front door, the [[Table of Contents]]. The Homepage plugin will keep it open if you're using Obsidian. This'll help keep you oriented in the maze.
 
 Warmest Regards,
 

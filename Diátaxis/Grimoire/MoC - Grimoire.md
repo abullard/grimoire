@@ -7,6 +7,8 @@
 list from [[]] and !outgoing([[]])
 ```
 
+## 🧑🏻‍💻 [[Grimoire Kanban]]
+Todo list for developing the Grimoire
 ## Explanation
 - 
 
