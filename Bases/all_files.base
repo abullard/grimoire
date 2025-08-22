@@ -1,0 +1,24 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - file.folder
+      - file.size
+      - file.tags
+      - formula.Untitled
+  - type: table
+    name: All Files
+    order:
+      - file.name
+      - file.ctime
+      - file.folder
+      - file.size
+      - file.tags
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize: {}

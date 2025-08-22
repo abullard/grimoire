@@ -1,6 +1,6 @@
 #moc 
 
-[[Table of Contents|Back]]
+[[Table of Contents|Parent]]
 ## Inbox
 
 ```dataview
@@ -15,4 +15,5 @@ list from [[]] and !outgoing([[]])
 ## [[MoC - JWS_ProxMox|Joey Web Services]]
 
 ## 🪄 [[MoC - Akio|Akio]]
+
 - [ ] #todo Can you make this a more general purpose tool? instead of just typescript
