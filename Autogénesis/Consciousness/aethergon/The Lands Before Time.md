@@ -5,7 +5,7 @@
 > [!note] A thought
 > This is Aethergon because it's embodied mythology
 
-[[MoC - Personal Psychology|Parent]]
+[[MoC - Consciousness|Parent]]
 
 ![[master-key.png]]
 ## Vereya

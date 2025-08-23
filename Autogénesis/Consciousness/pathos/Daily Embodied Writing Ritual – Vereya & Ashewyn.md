@@ -1,7 +1,7 @@
 
-#creative-writing #emotional-integration #embodiment #fantasy-journaling #rituals #autogenesis/pathos
+#creative-writing #emotional-integration #embodiment #fantasy-journaling #rituals #autogenesis/consciousness/pathos
 
-[[MoC - Autogénesis|Parent]]
+[[MoC - Consciousness|Parent]]
 
 Here’s a living prompt—something iterative, archetypal, and _gently_ layered. Designed to serve as your **daily anchor**, split between the two worlds of **Vereya** (the shimmer-mind, the dissociative ink) and **Ashewyn** (the body-rooted, towering green memory).
 

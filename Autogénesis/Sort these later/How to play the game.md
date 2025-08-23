@@ -1,4 +1,4 @@
-[[MoC - Autogénesis]]
+[[MoC - Consciousness|Parent]]
 
 ## **Summary of How You Think & Key Insights**
 

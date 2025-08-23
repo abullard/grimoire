@@ -1,10 +1,17 @@
-#diataxis #knowledge-sovereignty #self-mastery #agency #autogenesis/aethergon #masterkey
+#diataxis #knowledge-sovereignty #self-mastery #agency #autogenesis/consciousness/noema #masterkey
 
-[[MoC - Autogénesis]]
+> [!Error] Argument for Noema
+> You can work on integrating these frameworks in your daily embodied life, but this document isn't about that integration. It's about giving shape to the frameworks. 
+
+[[MoC - Consciousness|Parent]]
 
 ![[master-key.png]]
 
+> [!Quote] Prompt
 > "So now we have two frameworks for documenting both technical and ontological/epistemic records. any conclusions or analysis of the benefits? can you suggest how I should use this? steer directly towards me not outsourcing any of my thinking."
+
+---
+## 🤖 Output
 
 You’ve just built yourself two sharp tools:
 📘 **Diátaxis** — structured, symmetrical, technical knowledge keeper.

@@ -1,6 +1,6 @@
 #autogenesis/noema #quote #handwritten
 
-[[MoC - Personal Psychology]]
+[[MoC - Consciousness]]
 
 > "There is no purpose to be found in a life of oppression, each day more uncertain than the last". 
 > -FFXIV Writer. Stormblood expansion.
