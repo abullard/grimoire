@@ -12,9 +12,11 @@
  - Disassociated and in-actionable. 
  ![[vereya.png]]
 
+![[vereya_drawing.jpg]]
 ## Aeshwyn
 - Grounded and Actionable
 ![[aeshwyn.png]]
+![[ashewyn_drawing.jpg]]
 
 | Name             | Description                    |
 | ---------------- | ------------------------------ |
