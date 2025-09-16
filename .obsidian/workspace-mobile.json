@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Contents.md",
-                "mode": "preview",
+                "file": "Autogénesis/Books/MoC - Books.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "MoC - Books"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Autogénesis/Books/MoC - Books.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,8 +159,22 @@
   },
   "active": "efadf3e8d77cb71e",
   "lastOpenFiles": [
-    "photos/Excalidraw/Drawing 2025-09-16 14.01.55.excalidraw.md",
+    "Autogénesis/Books/Authors/Rainer Maria Rilke.md",
+    "Autogénesis/Books/MoC - Books.md",
+    "Autogénesis/Books/Authors/Jens Peter Jacobsen.md",
+    "Autogénesis/Books/Authors/Ian Leslie.md",
+    "Autogénesis/Books/Authors/Douglas Hofstadter.md",
+    "Autogénesis/Books/Authors/Marcus Aurelius.md",
+    "Autogénesis/Books/Authors",
+    "Autogénesis/MoC - Autogénesis.md",
+    "MoC - Books.md",
+    "Autogénesis/Books/pragma",
+    "Autogénesis/Books/pathos",
+    "Autogénesis/Books/noema",
+    "Autogénesis/Books/aethergon",
+    "Autogénesis/Books",
     "Table of Contents.md",
+    "photos/Excalidraw/Drawing 2025-09-16 14.01.55.excalidraw.md",
     "photos/Excalidraw",
     "Untitled",
     "Autogénesis/Sort these later/Grand Canyon Trip.md",
@@ -170,7 +185,6 @@
     "Autogénesis/Consciousness/Thoughts for life.md",
     "Autogénesis/Consciousness/How to play the game.md",
     "Autogénesis/Horticulture/MoC - Horticulture.md",
-    "Autogénesis/MoC - Autogénesis.md",
     "Autogénesis/Consciousness/MoC - Consciousness.md",
     "Autogénesis/Consciousness/aethergon/The Lands Before Time.md",
     "Diátaxis/General/reference/Meta-Systems.md",
@@ -182,22 +196,9 @@
     "photos/diataxis.png",
     "photos/autogenesis.png",
     "photos/master-key.png",
-    "photos/The Distribured Self.pdf - TheDistriburedSelf-VirtualWorldsandtheFutureofHumanIdentity.pdf",
-    "photos",
     "Diátaxis/Grimoire/explanation/Tag Consolidation via Semantic Proximity and Dictionary Compression 1.md",
     "Diátaxis/Grimoire/explanation/Tag Consolidation via Semantic Proximity and Dictionary Compression 2.md",
-    "Diátaxis/Akio/reference/multi-package.json project output.md",
-    "Diátaxis/Akio/explanation/akio trust building steps for npmjs and pkg adoption.md",
     "Diátaxis/General/photos/meta-systems.jpg",
-    "Diátaxis/General/explanation/Kanban Explained with an Example.md",
-    "Diátaxis/LLMs/copilot-instructions.md.md",
-    "Diátaxis/Grimoire/Grimoire Kanban.md",
-    "Diátaxis/Grimoire/MoC - Grimoire.md",
-    "Diátaxis/Grimoire/explanation",
-    "Diátaxis/Akio/reference",
-    "Diátaxis/Akio/MoC - Akio.md",
-    "Diátaxis/Akio/explanation",
-    "Diátaxis/General/reference",
     "Autogénesis/Consciousness/aethergon/photos/vereya_drawing.jpg",
     "Autogénesis/Consciousness/aethergon/photos/vereya.png",
     "Autogénesis/Consciousness/aethergon/photos/ashewyn_drawing.jpg",

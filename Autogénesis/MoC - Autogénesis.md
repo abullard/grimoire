@@ -16,9 +16,9 @@ list from [[]] and !outgoing([[]])
 
 ## 🪴 [[MoC - Horticulture|Horticulture]]
 These are my plant growing notes.
-
 ## 🧠☁️ [[MoC - Consciousness|Consciousness]]
 What does it mean to be alive? What is the meaning of life? 
-
 ## 💣 [[MoC - Collapse Philosophy|Collapse Philosophy]]
 Where is society, humanity, & ecology headed? Zeitgeist tells me that we're all worried about collapse and looking for grounded experiences to find meaning before it's gone. These notes will speak to that.
+## 📚 [[MoC - Books|Reading]]
+A place to take a note when I read a book.
