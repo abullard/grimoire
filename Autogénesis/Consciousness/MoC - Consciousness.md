@@ -24,7 +24,6 @@ list from [[]] and !outgoing([[]])
 
 ## 🪵 Pragma
 - [[Daily Embodied Writing Ritual – Vereya & Ashewyn]]
-- 
 
 ---
 

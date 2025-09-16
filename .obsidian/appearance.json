@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Things",
   "theme": "system",
-  "accentColor": "#447e6b"
+  "accentColor": "#b1dd8b",
+  "cssTheme": "Things",
+  "baseFontSize": 16
 }
