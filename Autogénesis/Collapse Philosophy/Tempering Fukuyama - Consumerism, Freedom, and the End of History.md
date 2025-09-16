@@ -1,6 +1,6 @@
 #philosophy #political-theory #consumerism #critique #autogenesis/noema 
 
-[[MoC - Autogénesis|Parent]]
+[[MoC - Collapse Philosophy|Parent]]
 
 > Francis Fukuyama, Perfection of Slavery through consumerism, End of History? Can you Temper this please?
 

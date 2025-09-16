@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c688588c3e9866aa",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "440f13766c0e8a9f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autogénesis/Consciousness/MoC - Consciousness.md",
+                "file": "Autogénesis/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MoC - Consciousness"
+              "title": "2025"
             }
           }
         ]
@@ -184,13 +184,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "440f13766c0e8a9f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Autogénesis/Collapse Philosophy/Tempering Fukuyama - Consumerism, Freedom, and the End of History.md",
     "Autogénesis/MoC - Autogénesis.md",
+    "Autogénesis/Consciousness/MoC - Consciousness.md",
+    "Autogénesis/Collapse Philosophy/MoC - Collapse Philosophy.md",
     "Table of Contents.md",
     "README.md",
-    "Autogénesis/Sort these later/Thoughts for life.md",
-    "Autogénesis/Consciousness/MoC - Consciousness.md",
+    "Autogénesis/Consciousness/Thoughts for life.md",
     "Autogénesis/Consciousness/aethergon/photos/ashewyn_drawing.jpg",
     "Diátaxis/General/reference/Meta-Systems.md",
     "Autogénesis/Consciousness/aethergon/photos/aeshwyn.png",
@@ -206,18 +208,16 @@
     "Diátaxis/LLMs/copilot-instructions.md.md",
     "Diátaxis/Akio/MoC - Akio.md",
     "Autogénesis/Consciousness/Shapes.md",
-    "Autogénesis/Sort these later/How to play the game.md",
+    "Autogénesis/Consciousness/How to play the game.md",
     "Autogénesis/2025.md",
     "Autogénesis/Consciousness/noema/Owning Your Thinking - Two Frameworks, One Mind.md",
-    "Autogénesis/Sort these later/Liberalism, Neoliberalism, and Liberal - What’s in a Word.md",
-    "Autogénesis/Sort these later/Tempering Fukuyama - Consumerism, Freedom, and the End of History.md",
+    "Autogénesis/Collapse Philosophy/Liberalism, Neoliberalism, and Liberal - What’s in a Word.md",
     "Autogénesis/Consciousness/pathos/Daily Embodied Writing Ritual – Vereya & Ashewyn.md",
-    "Autogénesis/Sort these later/Post-Truth and Hyper-normalization.md",
-    "Autogénesis/Sort these later/On Atomization, Post-Truth, and the Boiling Pan.md",
+    "Autogénesis/Collapse Philosophy/Post-Truth and Hyper-normalization.md",
+    "Autogénesis/Collapse Philosophy/On Atomization, Post-Truth, and the Boiling Pan.md",
     "Maps of Content/MoC - Masterkey.md",
     "Glossary.md",
     "Autogénesis/Collapse Philosophy/noema/The Distributed Self.md",
-    "Autogénesis/Collapse Philosophy/aethergon/Zeitgeist - A Culture's Periodic & Collective Fascination.md",
     "Bases/all_files.base",
     "Bases",
     "photos/Pasted image 20250807210725.png",
