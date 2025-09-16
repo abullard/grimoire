@@ -8,6 +8,8 @@ You’ve already sniffed out the tension here: two words from the same root carr
 
 ---
 
+![[political_spectrum]]
+
 ## 🌱 **1. Liberalism: roots & meaning**
 
 

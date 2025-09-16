@@ -1,4 +1,4 @@
-#philosophy #political-theory #consumerism #critique #autogenesis/noema 
+#philosophy #political-theory #consumerism #critique #autogenesis/collapse-philosophy/noema
 
 [[MoC - Collapse Philosophy|Parent]]
 
@@ -13,19 +13,14 @@ Ah, this is a wonderful tangle of threads — exactly the kind of conversation w
 Fukuyama’s 1989 essay (and later book) **The End of History and the Last Man** is widely misread. He didn’t mean history literally ends. What he argued was more specific:
 
 - With the collapse of communism and the triumph of liberal democracy & capitalism, humanity might have reached its final _ideological_ form.
-    
 - Why? Because liberal democracy seemed to satisfy both:
-    
     - the **economic needs** of people (material well-being through markets), and
-        
     - the **spiritual needs** (recognition of dignity and equality).
 
 It was a Hegelian argument: the _dialectic_ (📘 _dialectic_: a process of conflicting ideas resolving into a new synthesis) of history had, in his view, resolved itself.
 
 But even he acknowledged two lurking problems:
-
 - People might get bored and nihilistic in a world of comfort and sameness (“the last man,” borrowing from Nietzsche).
-    
 - Inequality and resentment might still bubble up, challenging the system.
 
 ---
