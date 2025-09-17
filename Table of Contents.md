@@ -18,6 +18,8 @@ My handwritten works.
 Quadrant based, self built "Castle of Glass :P" to explore & cartograph my brain. Which is me. Which is my brain. Weird loop. 
 ### ⚙️ [[MoC - Diátaxis|Diátaxis]]
 Technical Writing of my personal study following the [Diátaxis](https://diataxis.fr/) framework–post `07/31/2025`. Here's [[copilot-instructions.md#Diátaxis|copilot instructions for diátaxis]] in the form of a system prompt for an agentic LLM. Assuming I'm disciplined enough to always write docs. It's becoming more of a habit.
+### 🧑🏻‍💻 [[MoC - Work|Work Log]]
+I’m going to try and capture the long thread of my programming experience over time. This is a set of daily notes that distill my learnings from the day. 
 ### 🗝️ [[MoC - Masterkey|Masterkey]]
 Legend of Zelda Masterkey, normally unlocks the dungeon's boss room. Here it signals a waypoint. Something important to remember. I should review these often, as I view them as the keys to finding meaning.
 

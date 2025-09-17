@@ -1,6 +1,6 @@
 #developmental-psychology #identity #masterkey
 
-[[MoC - Masterkey]]
+[[MoC - Masterkey|Parent]]
 
 ![[master-key.png]]
 

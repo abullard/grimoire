@@ -7,6 +7,7 @@
 list from [[]] and !outgoing([[]])
 ```
 
+- [ ] #todo Can you make this a more general purpose tool? instead of just typescript
 ## Explanation
 - 
 
