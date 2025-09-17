@@ -1,3 +1,5 @@
+[[MoC - Akio|Parent]]
+
 For a small but useful CLI module like **Akio**, the goal is to signal **trust, stability, and low friction**. You don’t need heavyweight tooling—but the right surface polish and automation can help people adopt it faster. Here's a lean but professional setup you can aim for across **GitHub** and **npm**:
 
 ---

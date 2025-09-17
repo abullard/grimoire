@@ -1,6 +1,6 @@
 #autogenesis/noema #quote #handwritten
 
-[[MoC - Consciousness]]
+[[MoC - Consciousness|Parent]]
 
 > [!quote] FFXIV Writer. Stormblood expansion.
 > "There is no purpose to be found in a life of oppression, each day more uncertain than the last". 
