@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f614dd6465e946c",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d05e8f35ece0bf86",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Contents.md",
-                "mode": "preview",
+                "file": "Work/Years/2025 Timeline.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "2025 Timeline"
             }
           }
         ]
@@ -98,8 +98,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Autogénesis/MoC - Autogénesis.md",
-            "collapseAll": false,
+            "file": "Work/Years/2025 Timeline.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": true,
@@ -130,6 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Work/Years/2025 Timeline.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -137,45 +138,57 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "c397380064e93699",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": true,
+      "homepage:Open homepage": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": true,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "graph:Open graph view": false
     }
   },
-  "active": "d05e8f35ece0bf86",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Work/Daily Log/2025-09-17.md",
+    "Work/Daily Log/2025-09-18.md",
     "Work/Years/2025 Timeline.md",
-    "Work/MoC - Work.md",
+    "Work/Daily Log/2025-09-17.md",
+    "Cold Storage/Templates/Daily Log.md",
+    "Autogénesis/Consciousness/pathos/Daily Embodied Writing Ritual – Vereya & Ashewyn.md",
+    "Autogénesis/MoC - Autogénesis.md",
+    "Autogénesis/Consciousness/MoC - Consciousness.md",
+    "Autogénesis/Consciousness/aethergon/How to play the game.md",
     "Table of Contents.md",
+    "Diátaxis/MoC - Diátaxis.md",
+    "Work/MoC - Work.md",
     "Autogénesis/Collapse Philosophy/noema/The Distributed Self.md",
     "Maps of Content/MoC - Masterkey.md",
-    "Autogénesis/MoC - Autogénesis.md",
     "Autogénesis/2025.md",
     "Work/Years",
     "Work/Daily Log",
-    "Cold Storage/Templates/Daily Log.md",
     "Work",
-    "Diátaxis/MoC - Diátaxis.md",
     "Diátaxis/Akio/MoC - Akio.md",
     "Untitled.md",
-    "Autogénesis/Consciousness/MoC - Consciousness.md",
-    "Autogénesis/Consciousness/aethergon/How to play the game.md",
     "Autogénesis/Collapse Philosophy/Liberalism, Neoliberalism, and Liberal - What’s in a Word.md",
     "Autogénesis/Collapse Philosophy/noema/photos/political_spectrum.md",
     "Autogénesis/Collapse Philosophy/noema/photos",
@@ -188,13 +201,11 @@
     "Autogénesis/Books/Authors/Douglas Hofstadter.md",
     "Autogénesis/Books/Authors/Marcus Aurelius.md",
     "Autogénesis/Books/Authors",
-    "MoC - Books.md",
     "Autogénesis/Books/pragma",
     "Autogénesis/Books/pathos",
     "Autogénesis/Books/noema",
     "Autogénesis/Books/aethergon",
     "Autogénesis/Books",
-    "photos/Excalidraw/Drawing 2025-09-16 14.01.55.excalidraw.md",
     "photos/diataxis.png",
     "photos/autogenesis.png",
     "photos/master-key.png",
