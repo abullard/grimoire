@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1ade875a27464143",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9179f2cae15b8dd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Years/2025 Timeline.md",
-                "mode": "source",
+                "file": "Table of Contents.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 Timeline"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Work/Years/2025 Timeline.md",
+            "file": "Table of Contents.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Work/Years/2025 Timeline.md",
+            "file": "Table of Contents.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -168,12 +168,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9179f2cae15b8dd8",
   "lastOpenFiles": [
     "Work/Daily Log/2025-09-18.md",
     "Work/Years/2025 Timeline.md",
-    "Work/Daily Log/2025-09-17.md",
     "Cold Storage/Templates/Daily Log.md",
+    "Work/Daily Log/2025-09-17.md",
     "Autogénesis/Consciousness/pathos/Daily Embodied Writing Ritual – Vereya & Ashewyn.md",
     "Autogénesis/MoC - Autogénesis.md",
     "Autogénesis/Consciousness/MoC - Consciousness.md",

@@ -11,8 +11,4 @@ tags:
 ## Insights / Lessons
 - 
 
-## Carry Forward
-- 
-
-
 ---
