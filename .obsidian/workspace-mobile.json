@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Contents.md",
-                "mode": "preview",
+                "file": "Autogénesis/Books/Aurelius - Meditations/noema/Taking ahold of what Fate can’t steal.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "Taking ahold of what Fate can’t steal"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#autogenesis/noema",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Table of Contents.md",
+            "file": "Autogénesis/Books/Aurelius - Meditations/noema/Taking ahold of what Fate can’t steal.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Table of Contents.md",
+            "file": "Autogénesis/Books/Aurelius - Meditations/noema/Taking ahold of what Fate can’t steal.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -168,17 +168,28 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9179f2cae15b8dd8",
+  "active": "3981e79c053c51e3",
   "lastOpenFiles": [
+    "Autogénesis/Books/Aurelius - Meditations/MoC - Aurelius - Meditations.md",
+    "Autogénesis/Books/MoC - Books.md",
+    "Autogénesis/MoC - Autogénesis.md",
+    "Autogénesis/Books/Aurelius - Meditations/pragma",
+    "Autogénesis/Books/Aurelius - Meditations/pathos",
+    "Autogénesis/Books/Aurelius - Meditations/aethergon",
+    "Autogénesis/Books/Aurelius - Meditations/noema",
+    "Autogénesis/Books/Aurelius - Meditations",
+    "Autogénesis/Books/Aurelius - Meditations/noema/Taking ahold of what Fate can’t steal.md",
+    "Autogénesis/Books/Authors/Douglas Hofstadter.md",
+    "Autogénesis/Books/Authors/Jens Peter Jacobsen.md",
+    "Autogénesis/Books/Authors/Rainer Maria Rilke.md",
+    "Table of Contents.md",
     "Work/Daily Log/2025-09-18.md",
     "Work/Years/2025 Timeline.md",
     "Cold Storage/Templates/Daily Log.md",
     "Work/Daily Log/2025-09-17.md",
     "Autogénesis/Consciousness/pathos/Daily Embodied Writing Ritual – Vereya & Ashewyn.md",
-    "Autogénesis/MoC - Autogénesis.md",
     "Autogénesis/Consciousness/MoC - Consciousness.md",
     "Autogénesis/Consciousness/aethergon/How to play the game.md",
-    "Table of Contents.md",
     "Diátaxis/MoC - Diátaxis.md",
     "Work/MoC - Work.md",
     "Autogénesis/Collapse Philosophy/noema/The Distributed Self.md",
@@ -193,19 +204,7 @@
     "Autogénesis/Collapse Philosophy/noema/photos/political_spectrum.md",
     "Autogénesis/Collapse Philosophy/noema/photos",
     "Autogénesis/Collapse Philosophy/MoC - Collapse Philosophy.md",
-    "Autogénesis/Collapse Philosophy/Tempering Fukuyama - Consumerism, Freedom, and the End of History.md",
-    "Autogénesis/Books/MoC - Books.md",
-    "Autogénesis/Books/Authors/Rainer Maria Rilke.md",
-    "Autogénesis/Books/Authors/Jens Peter Jacobsen.md",
-    "Autogénesis/Books/Authors/Ian Leslie.md",
-    "Autogénesis/Books/Authors/Douglas Hofstadter.md",
-    "Autogénesis/Books/Authors/Marcus Aurelius.md",
     "Autogénesis/Books/Authors",
-    "Autogénesis/Books/pragma",
-    "Autogénesis/Books/pathos",
-    "Autogénesis/Books/noema",
-    "Autogénesis/Books/aethergon",
-    "Autogénesis/Books",
     "photos/diataxis.png",
     "photos/autogenesis.png",
     "photos/master-key.png",

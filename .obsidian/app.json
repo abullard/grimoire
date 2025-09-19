@@ -17,5 +17,6 @@
     "editor:attach-file",
     "editor:configure-toolbar"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

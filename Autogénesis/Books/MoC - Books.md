@@ -4,7 +4,7 @@
 ## Authors (by surname)
 ---
 ### A
-- [[Marcus Aurelius]]
+- [[MoC - Aurelius - Meditations|Aurelius - Meditations]]
 ### H
 - [[Douglas Hofstadter]]
 ### I
