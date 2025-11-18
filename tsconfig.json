@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "baseUrl": "./",
+    "allowJs": true,
+    "target": "ES2020",
+    "module": "ESNext",
+    "strict": true,
+    "sourceMap": false,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "types": ["vitest"]
+  },
+  "exclude": ["./src/__tests__/**/*", "node_modules"]
+}
