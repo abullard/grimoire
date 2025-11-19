@@ -1,43 +1,49 @@
 {
-  "name": "grimoire",
-  "version": "0.0.1",
-  "description": "Bring your code base to life.",
-  "main": "index.js",
-  "scripts": {
-    "start": "node ./dist/index.cjs",
-    "start:debug": "npx nodemon -e ts --exec \"pnpm run build; pnpm start\"",
-    "build": "npx esbuild ./src/index.ts --bundle --platform=node --minify --format=cjs --outfile=./dist/index.cjs",
-    "clean": "rm -rf ./dist && rm -rf ./node_modules",
-    "test": "vitest run",
-    "test:coverage": "vitest run --coverage",
-    "test:manual": "curl localhost:3000/"
-  },
-  "scriptDescriptions": {
-    "start": "serve the production application from /dist",
-    "start:debug": "UNUSED",
-    "build": "esbuild the hapi server",
-    "clean": "del /dist & /node_modules",
-    "test": "UNUSED",
-    "test:coverage": "UNUSED",
-    "test:manual": "run curl on localhost:3000/ - No postman/insomnia yet"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abullard/grimoire.git"
-  },
-  "author": "abullard",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/abullard/grimoire/issues"
-  },
-  "homepage": "https://github.com/abullard/grimoire#readme",
-  "dependencies": {
-    "@chroma-core/default-embed": "^0.1.9",
-    "@hapi/hapi": "^21.4.4",
-    "chromadb": "^3.1.5"
-  },
-  "devDependencies": {
-    "@types/node": "^24.10.1",
-    "esbuild": "^0.27.0"
-  }
+    "name": "grimoire",
+    "version": "0.0.1",
+    "description": "A living grimoire that feeds your prompts with application development context.",
+    "main": "index.js",
+    "scripts": {
+        "akio": "npx @abullard/akio -d",
+        "start:prod": "node ./dist/index.cjs",
+        "start:hmr": "npx nodemon -e ts --exec \"pnpm run build; pnpm start:prod\"",
+        "start:local:db": "npx chroma run --path ../../../database/grimoire",
+        "build": "npx esbuild ./src/index.ts --bundle --platform=node --minify --format=cjs --outfile=./dist/index.cjs",
+        "clean": "rm -rf ./dist && rm -rf ./node_modules",
+        "test": "vitest run",
+        "test:coverage": "vitest run --coverage",
+        "test:manual": "curl localhost:3000/"
+    },
+    "scriptDescriptions": {
+        "akio": "TS command deck - check out https://npmjs.com/package/@abullard/akio",
+        "start:prod": "serve the production application from /dist",
+        "start:hmr": "start server with HMR",
+        "start:local:db": "start the local chromaDb instance to a hardcoded database on my PC.",
+        "build": "esbuild the hapi server",
+        "clean": "del /dist & /node_modules",
+        "test": "UNUSED",
+        "test:coverage": "UNUSED",
+        "test:manual": "run curl on localhost:3000/ - No postman/insomnia yet"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/abullard/grimoire.git"
+    },
+    "author": "abullard",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/abullard/grimoire/issues"
+    },
+    "homepage": "https://github.com/abullard/grimoire#readme",
+    "dependencies": {
+        "@chroma-core/default-embed": "^0.1.9",
+        "@chroma-core/openai": "^0.1.8",
+        "@hapi/hapi": "^21.4.4",
+        "chromadb": "^3.1.5"
+    },
+    "devDependencies": {
+        "@types/node": "^24.10.1",
+        "esbuild": "^0.27.0",
+        "nodemon": "^3.1.11"
+    }
 }
