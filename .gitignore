@@ -11,3 +11,6 @@ trellis/trellis/
 
 # OS
 .DS_Store
+
+# my files to ignore
+scratch.md

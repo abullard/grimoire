@@ -1,1 +1,8 @@
-We're going to build a CLAUDE.md file. You've seen the shape of the parent directory & my very sparse notes. I use a Map of Contents approach (a table of contents built out of obsidian wikilinks [[]]), to visually link the documentation together. This doesn't require filesystem organization, but we're going to be smart about that anyways. My main goal here is to create a "grimoire" of application development & documentation that sits above the repo–that you and I have access to. I'm also interested in supplying you with a Diataxis framework for developer documentation, that'll be a SKILL.md that tells you how to format & categorize artifacts I want. My goal is to have you build the claude.md file so that we lay out this entire format, how you operate/move within the space, and how we'll spin off sub-agents, or tmux our way into multiple agents running from different contexts, but share the same root level skills.  
+I'm noting discrepencies here:
+1. ADRs living inside `/docs` while `/artifacts` also exists is a strange duplication route. Suggest that the `.agents/grill-with-docs` skill is out of alignment with the `/artifacts` 
+
+
+I think what I really want from this exercise:
+- a `diataxis` skill for writing technical documentation
+- the `obsidian-cli` skill for interacting with an obisidan vault
+- and to wrap a repo with the obsidian vault information. Then we don't need this crazy...multi-project wrapper around the whole thing.

@@ -1,3 +1,11 @@
+---
+type: design-doc
+subtype: analysis
+status: done
+created: 2026-10-15
+project: serenityOS
+---
+
 # Removal-Risk Analysis: SerenityOS Build Setup on macOS (work machine)
 
 ## Context
